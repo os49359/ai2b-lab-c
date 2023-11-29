@@ -1,0 +1,13 @@
+button.delete {
+    background-color: red;
+    border: 1px solid red;
+    color: white;
+    border-radius: 5px;
+    padding: 2px;
+    max-height: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+

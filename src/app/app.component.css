@@ -1,0 +1,33 @@
+header {
+    background-color: #ae00ff;
+    color: #ffffff;
+    display: flex;
+    padding: 1rem;
+    margin-bottom: 1em;
+
+    justify-content: space-between;
+    align-items: center;
+}
+
+header a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+header .header-add {
+    color: #ffffff;
+    text-decoration: none;
+    border-right: 5px solid #00ff5e;
+    padding: 6px;
+}
+  
+.router-outlet {
+    min-height: 25rem;
+    padding: 1rem;
+}
+  
+footer {
+    background-color: #aaaaaa;
+    color: #ffffff;
+    padding: 0.5rem 1rem;
+}
